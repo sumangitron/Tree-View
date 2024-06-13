@@ -1,0 +1,22 @@
+.app {
+  height: 96vh;
+  width: 94vw;
+}
+
+.tree-view-container {
+  height: 100%;
+  width: 300px;
+  background-color: rgb(56, 56, 177);
+  color: #fff;
+}
+
+.menu-list-container {
+  list-style-type: none;
+}
+
+.menu-item {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  cursor: pointer;
+}
